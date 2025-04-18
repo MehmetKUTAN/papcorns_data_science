@@ -124,5 +124,5 @@ To run this project locally, follow the steps below.
 ### 1. Clone the Repository
 
 ```bash
-clone this Repository
+git clone https://github.com/MehmetKUTAN/papcorns_data_science.git
 cd papcorns-ds-case
